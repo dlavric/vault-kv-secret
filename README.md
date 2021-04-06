@@ -1,4 +1,4 @@
-# This repository is for the purpose of learning `Static Secrets: Key/Value Secrets Engine` based on [this](https://learn.hashicorp.com/tutorials/vault/static-secrets?in=vault/secrets-management) tutorial.
+## This repository is for the purpose of learning `Static Secrets: Key/Value Secrets Engine` based on [this](https://learn.hashicorp.com/tutorials/vault/static-secrets?in=vault/secrets-management) tutorial.
 
 ## Pre-requirements
 - [X] [Vault](https://www.vaultproject.io/docs/install)
